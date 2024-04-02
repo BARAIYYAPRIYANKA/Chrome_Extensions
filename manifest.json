@@ -2,7 +2,11 @@
     "manifest_version" : 3,
     "name" : "LinkedIn voice assistent",
     "description" : "A chrome extension working as a voice assistent for linkedin",
+    "permissions": ["storage"],
     "version" : "1.0",
+    "action": {
+        "default_popup": "popup.html"
+      },
     "icons":{
         "16" : "images/icon_16.png",
         "32" : "images/icon_32.png",
