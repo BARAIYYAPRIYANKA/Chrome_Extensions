@@ -74,14 +74,22 @@ speechRecognition.onresult = (event) => {
     if (transcript.trim().toLowerCase().includes("open post")) {
         aViewPost.click();
     }
+    else if (transcript.trim().toLowerCase().includes("open my connections")) {
+        // Open connections page
+        window.location.href = "https://www.linkedin.com/mynetwork/invite-connect/connections/";
+    } 
+    else if (transcript.trim().toLowerCase().includes("open notification")) {
+        window.location.href = "https://www.linkedin.com/notifications/?filter=all";
+    }
+    else if (transcript.trim().toLowerCase().includes("open my profile")) {
+        window.location.href = "https://www.linkedin.com/in/priyanka-baraiyya-335a09282/";
+    }
+    else if (transcript.trim().toLowerCase().includes("open my network")) {
+        window.location.href = "https://www.linkedin.com/mynetwork/";
+    }
 };
 
-// // Handle speech recognition errors
-// speechRecognition.onerror = (event) => {
-//     console.error('Speech recognition error:', event.error);
-//     // Provide feedback to the user about the error
-//     alert("Speech recognition error occurred. Please try again later.");
-// };
+
 
 speechRecognition.onerror = (event) => {
     console.error('Speech recognition error:', event.error);
