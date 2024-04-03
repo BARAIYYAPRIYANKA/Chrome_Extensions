@@ -24,13 +24,13 @@ Once the extension is installed, you can use it as follows:
 - **Voice Commands**: Speak commands such as "Open post", "Open my connections", "Open notification", "Open my profile", and "Open my network" to perform respective actions.
 - **Keyboard Shortcut**: Press `Shift + Alt + O` to open the "Saved" page directly.
 
+## Screenshots
+
 ## Supported Browsers
 
 This extension has been tested and confirmed to work on the following browsers:
 
 - Google Chrome
-- mozilla firebox
-- internet explorer
 
 ## Notes
 
@@ -41,3 +41,24 @@ This extension has been tested and confirmed to work on the following browsers:
 
 This project is maintained by [Priyanka Baraiyya].
 
+## New Things Learned
+
+During the development of LinkedIn voice assistant Chrome extension, we learned several new concepts and technologies, including:
+
+- Chrome Extension Development: This project provided me with hands-on experience in developing Chrome extensions, allowing me to understand the intricacies of browser extension development.
+
+## Difficulties Faced
+
+While developing LinkedIn voice assistant Chrome extension, we encountered several challenges, including:
+
+- Documentation: Understanding and following the documentation for Chrome extension development proved to be challenging at times, as it required careful interpretation and implementation.
+- Debugging: Identifying and resolving bugs, especially in asynchronous operations and event handling, required extensive debugging and testing.
+- User Experience Optimization: Balancing functionality with user experience was challenging
+
+  ## Compatibility
+
+LinkedIn voice assistant Chrome extension is compatible with the following:
+
+-Google Chrome: The extension is designed to work seamlessly with the Google Chrome web browser.
+
+Please note that the extension may not be compatible with all browser versions, particularly older releases. Ensure that you are using the latest version of your browser for optimal performance.
