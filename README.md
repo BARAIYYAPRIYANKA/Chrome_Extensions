@@ -25,6 +25,26 @@ Once the extension is installed, you can use it as follows:
 - **Keyboard Shortcut**: Press `Shift + Alt + O` to open the "Saved" page directly.
 
 ## Screenshots
+LinkedIn chrome extension is enable
+
+![img1](https://github.com/BARAIYYAPRIYANKA/Chrome_Extensions/assets/140792451/d54fd22c-55cc-468d-b4c0-1dacf08e5230)
+
+Popup is showing when you click on extension icon.
+
+![img2](https://github.com/BARAIYYAPRIYANKA/Chrome_Extensions/assets/140792451/1e7e5d03-ec47-4921-9c9b-0c0dda021e62)
+
+
+![img3](https://github.com/BARAIYYAPRIYANKA/Chrome_Extensions/assets/140792451/a05c5577-118e-453f-8867-a987244f03c1)
+
+ Adds a "Saved" item to the LinkedIn navigation menu for easy access to saved posts.
+ 
+![img4](https://github.com/BARAIYYAPRIYANKA/Chrome_Extensions/assets/140792451/8307df73-9fab-4ae8-bed3-4367639b8443)
+
+ speech recognition is working 
+ 
+![img5](https://github.com/BARAIYYAPRIYANKA/Chrome_Extensions/assets/140792451/70898175-5451-4b56-90c5-ac7c037d242c)
+
+
 
 ## Supported Browsers
 
